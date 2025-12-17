@@ -1,0 +1,8 @@
+name = "anime-worker"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "anime_db"
+database_id = "3407ddbf-74ae-43ab-9f66-c02b06374ffe"
